@@ -1,0 +1,39 @@
+body{
+    height: 650px;   
+    background-image: url(https://i.pinimg.com/736x/cb/16/93/cb16933b7b2111a663cdcecb541bf517.jpg);
+    background-repeat: repeat-x;
+    background-size: auto;
+
+}   
+
+.divClass{
+
+    text-align: center;
+    justify-content: center;
+}
+
+
+   h1{
+                color: yellow;
+            }
+
+            img{
+                width: 400px;
+            }
+
+            #thirDiv{
+                height: 600px;
+                width: 500px;
+                padding: 50px;
+                border: solid black 1px;
+                margin-left: auto;
+                margin-right: auto;
+                background-color: aquamarine;
+                
+            }
+
+            #spanId{
+                font-size: 18px;
+                margin: 50px;
+                
+            }
